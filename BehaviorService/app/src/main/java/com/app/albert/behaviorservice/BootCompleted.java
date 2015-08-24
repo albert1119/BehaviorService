@@ -8,7 +8,6 @@ import android.content.Intent;
  */
 public class BootCompleted extends BroadcastReceiver {
 
-
     @Override
     public void onReceive(Context context, Intent intent) {
         // TODO Auto-generated method stub
